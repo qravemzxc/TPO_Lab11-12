@@ -1,0 +1,514 @@
+2023-12-11 17:53:48,877 INFO page.MainPage [main] Main page is opened
+2023-12-11 17:53:50,561 INFO page.FeedbackPage [main] Target element is clicked
+2023-12-11 17:53:52,063 INFO page.FeedbackPage [main] Ring select is clicked
+2023-12-11 17:53:54,210 INFO page.FeedbackPage [main] Add button is clicked
+2023-12-11 17:53:56,343 INFO page.FeedbackPage [main] FIO send
+2023-12-11 17:53:57,466 INFO page.FeedbackPage [main] dignities send
+2023-12-11 17:53:58,560 INFO page.FeedbackPage [main] disadvantages send
+2023-12-11 17:53:59,654 INFO page.FeedbackPage [main] feedback send
+2023-12-11 17:54:00,845 INFO page.FeedbackPage [main] continue button is clicked
+2023-12-11 17:54:47,798 INFO page.MainPage [main] Main page is opened
+2023-12-11 17:54:47,814 INFO util.TestListener [main] Test failed: isMainPageOpened
+2023-12-11 18:22:30,464 INFO page.MainPage [main] Main page is opened
+2023-12-11 18:22:30,742 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 18:22:50,518 INFO page.MainPage [main] Main page is opened
+2023-12-11 18:23:28,204 INFO page.MainPage [main] Main page is opened
+2023-12-11 18:24:09,158 INFO page.MainPage [main] Main page is opened
+2023-12-11 18:24:09,420 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 18:24:25,844 INFO page.MainPage [main] Main page is opened
+2023-12-11 18:36:46,781 INFO page.MainPage [main] Main page is opened
+2023-12-11 18:36:47,351 INFO page.SearchingPage [main] Target element is clicked
+2023-12-11 18:37:54,537 INFO page.MainPage [main] Main page is opened
+2023-12-11 18:37:55,085 INFO util.TestListener [main] Test failed: testSearchGood
+2023-12-11 18:39:03,596 INFO page.MainPage [main] Main page is opened
+2023-12-11 18:39:04,209 INFO util.TestListener [main] Test failed: testSearchGood
+2023-12-11 18:39:30,476 INFO page.MainPage [main] Main page is opened
+2023-12-11 18:39:33,824 INFO util.TestListener [main] Test failed: testSearchGood
+2023-12-11 18:39:47,333 INFO page.MainPage [main] Main page is opened
+2023-12-11 18:39:50,687 INFO util.TestListener [main] Test failed: testSearchGood
+2023-12-11 18:40:25,728 INFO page.MainPage [main] Main page is opened
+2023-12-11 18:40:26,310 INFO page.SearchingPage [main] Target element is clicked
+2023-12-11 18:41:01,663 INFO page.MainPage [main] Main page is opened
+2023-12-11 18:41:04,328 INFO page.SearchingPage [main] Target element is clicked
+2023-12-11 18:42:51,810 INFO page.MainPage [main] Main page is opened
+2023-12-11 18:42:52,136 INFO util.TestListener [main] Test failed: testSearchGood
+2023-12-11 18:43:50,033 INFO page.MainPage [main] Main page is opened
+2023-12-11 18:43:50,219 INFO util.TestListener [main] Test failed: testSearchGood
+2023-12-11 18:45:18,732 INFO page.MainPage [main] Main page is opened
+2023-12-11 18:45:21,887 INFO util.TestListener [main] Test failed: testSearchGood
+2023-12-11 18:45:40,490 INFO page.MainPage [main] Main page is opened
+2023-12-11 18:45:45,638 INFO util.TestListener [main] Test failed: testSearchGood
+2023-12-11 18:46:46,036 INFO page.MainPage [main] Main page is opened
+2023-12-11 18:46:50,565 INFO util.TestListener [main] Test failed: testSearchGood
+2023-12-11 18:47:23,367 INFO page.MainPage [main] Main page is opened
+2023-12-11 18:47:28,631 INFO util.TestListener [main] Test failed: testSearchGood
+2023-12-11 18:47:46,297 INFO page.MainPage [main] Main page is opened
+2023-12-11 18:47:47,763 INFO util.TestListener [main] Test failed: testSearchGood
+2023-12-11 18:48:27,067 INFO page.MainPage [main] Main page is opened
+2023-12-11 18:48:28,528 INFO util.TestListener [main] Test failed: testSearchGood
+2023-12-11 18:49:17,482 INFO page.MainPage [main] Main page is opened
+2023-12-11 18:49:19,141 INFO util.TestListener [main] Test failed: testSearchGood
+2023-12-11 18:51:02,617 INFO page.MainPage [main] Main page is opened
+2023-12-11 18:51:04,275 INFO page.SearchingPage [main] title send
+2023-12-11 18:51:06,384 INFO page.SearchingPage [main] Target element is clicked
+2023-12-11 18:51:21,129 INFO page.MainPage [main] Main page is opened
+2023-12-11 18:51:23,005 INFO page.SearchingPage [main] title send
+2023-12-11 18:51:31,399 INFO page.SearchingPage [main] Target element is clicked
+2023-12-11 18:52:28,066 INFO page.MainPage [main] Main page is opened
+2023-12-11 18:52:28,547 INFO page.SearchingPage [main] title send
+2023-12-11 18:52:40,274 INFO page.SearchingPage [main] Target element is clicked
+2023-12-11 18:53:03,945 INFO page.MainPage [main] Main page is opened
+2023-12-11 18:53:04,465 INFO page.SearchingPage [main] title send
+2023-12-11 18:53:08,413 INFO page.SearchingPage [main] Target element is clicked
+2023-12-11 20:36:12,494 INFO page.MainPage [main] Main page is opened
+2023-12-11 20:36:12,515 INFO util.TestListener [main] Test failed: testSearchGood
+2023-12-11 20:36:12,523 INFO util.TestListener [main] Test failed: testSearchGood
+2023-12-11 20:36:43,451 INFO page.MainPage [main] Main page is opened
+2023-12-11 20:36:43,712 INFO util.TestListener [main] Test failed: testGoToUndefinedGood
+2023-12-11 20:37:03,663 INFO page.MainPage [main] Main page is opened
+2023-12-11 20:37:03,935 INFO util.TestListener [main] Test failed: testGoToUndefinedGood
+2023-12-11 20:37:26,411 INFO page.MainPage [main] Main page is opened
+2023-12-11 20:37:26,694 INFO util.TestListener [main] Test failed: testGoToUndefinedGood
+2023-12-11 20:37:48,817 INFO util.TestListener [main] Test failed: testGoToUndefinedGood
+2023-12-11 20:38:10,765 INFO page.MainPage [main] Main page is opened
+2023-12-11 20:38:12,369 INFO page.GoToUndefinedGoodPage [main] Target element is clicked
+2023-12-11 20:38:13,596 INFO page.GoToUndefinedGoodPage [main] Ring select is clicked
+2023-12-11 20:38:15,682 INFO util.TestListener [main] Test failed: testGoToUndefinedGood
+2023-12-11 20:39:58,364 INFO page.MainPage [main] Main page is opened
+2023-12-11 20:39:59,924 INFO page.GoToUndefinedGoodPage [main] Target element is clicked
+2023-12-11 20:40:02,143 INFO page.GoToUndefinedGoodPage [main] Ring select is clicked
+2023-12-11 20:40:34,519 INFO page.MainPage [main] Main page is opened
+2023-12-11 20:40:35,184 INFO util.TestListener [main] Test failed: testGoToUndefinedGood
+2023-12-11 20:40:47,735 INFO page.MainPage [main] Main page is opened
+2023-12-11 20:40:49,317 INFO page.GoToUndefinedGoodPage [main] Target element is clicked
+2023-12-11 20:40:50,490 INFO page.GoToUndefinedGoodPage [main] Ring select is clicked
+2023-12-11 20:42:54,144 INFO page.MainPage [main] Main page is opened
+2023-12-11 20:42:56,217 INFO page.GoToUndefinedGoodPage [main] Target element is clicked
+2023-12-11 20:42:57,348 INFO page.GoToUndefinedGoodPage [main] Ring select is clicked
+2023-12-11 20:56:39,978 INFO page.MainPage [main] Main page is opened
+2023-12-11 20:56:40,528 INFO page.FilteringPage [main] title send
+2023-12-11 20:56:47,966 INFO page.FilteringPage [main] Target element is clicked
+2023-12-11 21:01:50,269 INFO page.MainPage [main] Main page is opened
+2023-12-11 21:01:50,846 INFO page.FilteringPage [main] title send
+2023-12-11 21:01:59,884 INFO page.FilteringPage [main] Target element is clicked
+2023-12-11 21:29:27,941 INFO page.MainPage [main] Main page is opened
+2023-12-11 21:29:27,960 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 21:29:52,336 INFO page.MainPage [main] Main page is opened
+2023-12-11 21:29:52,616 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 21:30:19,559 INFO page.MainPage [main] Main page is opened
+2023-12-11 21:30:29,977 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 21:30:44,143 INFO page.MainPage [main] Main page is opened
+2023-12-11 21:30:54,638 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 21:31:16,480 INFO page.MainPage [main] Main page is opened
+2023-12-11 21:31:27,191 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 21:34:07,045 INFO page.MainPage [main] Main page is opened
+2023-12-11 21:34:17,837 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 21:35:47,881 INFO page.MainPage [main] Main page is opened
+2023-12-11 21:35:58,450 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 21:38:15,458 INFO page.MainPage [main] Main page is opened
+2023-12-11 21:39:12,652 INFO page.MainPage [main] Main page is opened
+2023-12-11 21:39:23,167 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 21:39:36,482 INFO page.MainPage [main] Main page is opened
+2023-12-11 21:39:46,733 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 21:41:12,355 INFO page.MainPage [main] Main page is opened
+2023-12-11 21:41:23,327 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 21:47:25,404 INFO page.MainPage [main] Main page is opened
+2023-12-11 21:47:25,415 INFO util.TestListener [main] Test failed: isMainPageOpened
+2023-12-11 21:47:40,401 INFO page.MainPage [main] Main page is opened
+2023-12-11 21:47:40,420 INFO util.TestListener [main] Test failed: isMainPageOpened
+2023-12-11 21:47:56,239 INFO page.MainPage [main] Main page is opened
+2023-12-11 21:47:56,259 INFO util.TestListener [main] Test failed: isMainPageOpened
+2023-12-11 21:48:13,694 INFO page.MainPage [main] Main page is opened
+2023-12-11 21:48:16,169 INFO page.FeedbackPage [main] Target element is clicked
+2023-12-11 21:48:17,540 INFO page.FeedbackPage [main] Ring select is clicked
+2023-12-11 21:48:20,859 INFO util.TestListener [main] Test failed: testAddFeedback
+2023-12-11 21:48:36,716 INFO page.MainPage [main] Main page is opened
+2023-12-11 21:48:36,733 INFO util.TestListener [main] Test failed: isMainPageOpened
+2023-12-11 21:49:00,772 INFO page.MainPage [main] Main page is opened
+2023-12-11 21:57:48,727 INFO page.MainPage [main] Main page is opened
+2023-12-11 21:57:59,592 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 21:58:13,555 INFO page.MainPage [main] Main page is opened
+2023-12-11 21:58:24,065 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 21:58:51,706 INFO page.MainPage [main] Main page is opened
+2023-12-11 21:58:51,984 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 21:59:18,231 INFO page.MainPage [main] Main page is opened
+2023-12-11 21:59:29,163 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 21:59:52,637 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:00:03,231 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:01:04,746 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:01:05,024 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:01:27,137 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:01:27,429 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:01:46,966 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:01:57,810 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:02:16,394 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:04:08,377 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:06:09,227 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:06:09,529 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:06:32,381 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:06:43,341 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:06:57,971 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:07:28,627 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:09:48,204 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:09:48,485 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:10:01,510 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:10:33,892 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:12:17,502 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:12:17,782 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:12:38,582 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:12:38,858 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:13:01,248 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:13:01,513 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:13:25,752 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:13:26,022 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:13:54,517 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:13:54,805 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:14:29,805 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:14:30,090 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:14:49,343 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:14:49,619 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:15:18,521 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:15:18,794 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:15:38,461 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:16:06,577 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:16:50,337 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:16:50,726 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:17:01,064 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:17:27,631 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:17:50,072 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:18:00,587 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:18:12,563 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:18:39,380 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:19:03,486 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:19:03,779 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:19:38,099 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:20:39,415 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:21:10,275 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:21:37,969 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:25:25,470 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:25:35,952 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:25:51,370 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:26:02,978 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:26:27,635 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:26:54,078 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:27:23,851 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:27:50,534 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:28:18,583 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:28:18,859 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:28:29,858 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:28:40,812 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:28:54,183 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:29:04,668 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:29:28,561 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:29:39,893 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:37:50,745 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:37:51,049 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 22:42:08,980 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:42:33,646 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:42:58,171 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:43:19,130 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:54:05,900 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:54:07,259 INFO util.TestListener [main] Test failed: testComWithManag
+2023-12-11 22:54:33,524 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:54:34,894 INFO util.TestListener [main] Test failed: testComWithManag
+2023-12-11 22:55:15,697 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:55:47,266 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:56:44,043 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:56:48,218 INFO util.TestListener [main] Test failed: testComWithManag
+2023-12-11 22:57:01,395 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:57:05,969 INFO util.TestListener [main] Test failed: testComWithManag
+2023-12-11 22:57:27,895 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:58:00,941 INFO page.MainPage [main] Main page is opened
+2023-12-11 22:58:31,414 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:04:06,707 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:06:20,765 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:07:39,531 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:08:30,687 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:08:34,943 INFO util.TestListener [main] Test failed: testComWithManag
+2023-12-11 23:08:49,033 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:09:15,349 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:09:42,616 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:10:22,973 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:13:13,708 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:13:19,106 INFO util.TestListener [main] Test failed: testComWithManag
+2023-12-11 23:13:31,921 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:13:36,112 INFO util.TestListener [main] Test failed: testComWithManag
+2023-12-11 23:13:48,592 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:14:22,080 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:14:26,302 INFO util.TestListener [main] Test failed: testComWithManag
+2023-12-11 23:14:38,488 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:14:43,908 INFO util.TestListener [main] Test failed: testComWithManag
+2023-12-11 23:15:19,411 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:15:24,820 INFO util.TestListener [main] Test failed: testComWithManag
+2023-12-11 23:15:38,362 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:15:43,761 INFO util.TestListener [main] Test failed: testComWithManag
+2023-12-11 23:16:08,070 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:18:03,188 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:18:07,349 INFO util.TestListener [main] Test failed: testComWithManag
+2023-12-11 23:18:29,988 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:18:34,173 INFO util.TestListener [main] Test failed: testComWithManag
+2023-12-11 23:18:56,033 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:18:59,239 INFO util.TestListener [main] Test failed: testComWithManag
+2023-12-11 23:19:29,250 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:19:32,452 INFO util.TestListener [main] Test failed: testComWithManag
+2023-12-11 23:20:44,808 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:20:48,028 INFO util.TestListener [main] Test failed: testComWithManag
+2023-12-11 23:21:04,122 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:21:07,312 INFO util.TestListener [main] Test failed: testComWithManag
+2023-12-11 23:21:41,712 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:21:43,890 INFO util.TestListener [main] Test failed: testComWithManag
+2023-12-11 23:22:00,089 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:26:48,362 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:26:59,876 INFO util.TestListener [main] Test failed: testComWithManag
+2023-12-11 23:27:22,569 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:27:34,132 INFO util.TestListener [main] Test failed: testComWithManag
+2023-12-11 23:28:12,925 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:28:26,631 INFO util.TestListener [main] Test failed: testComWithManag
+2023-12-11 23:28:51,101 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:28:58,453 INFO util.TestListener [main] Test failed: testComWithManag
+2023-12-11 23:29:10,853 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:29:44,404 INFO util.TestListener [main] Test failed: testComWithManag
+2023-12-11 23:30:41,015 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:32:19,568 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:32:47,127 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:38:14,142 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:39:28,172 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:39:28,463 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 23:39:45,377 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:39:56,096 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 23:40:14,738 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:40:43,859 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 23:41:19,922 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:41:30,317 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 23:41:58,693 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:42:11,600 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 23:42:49,304 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:43:01,054 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 23:43:46,648 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:44:19,476 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 23:44:36,860 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:45:13,679 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 23:45:31,254 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:45:31,550 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 23:46:06,594 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:46:06,871 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 23:47:00,616 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:47:31,411 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 23:48:21,251 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:48:52,159 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 23:50:17,485 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:53:49,821 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:54:23,118 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 23:59:28,749 INFO page.MainPage [main] Main page is opened
+2023-12-11 23:59:50,631 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-11 23:59:50,641 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 00:04:48,224 INFO page.MainPage [main] Main page is opened
+2023-12-12 00:05:21,606 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 00:06:14,475 INFO page.MainPage [main] Main page is opened
+2023-12-12 00:06:14,748 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 00:07:14,440 INFO page.MainPage [main] Main page is opened
+2023-12-12 00:07:46,912 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 00:08:52,186 INFO page.MainPage [main] Main page is opened
+2023-12-12 00:09:48,910 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 00:11:13,009 INFO page.MainPage [main] Main page is opened
+2023-12-12 00:11:13,301 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 00:11:42,030 INFO page.MainPage [main] Main page is opened
+2023-12-12 00:12:34,573 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 00:13:08,793 INFO page.MainPage [main] Main page is opened
+2023-12-12 00:13:39,369 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 00:14:38,438 INFO page.MainPage [main] Main page is opened
+2023-12-12 00:15:10,582 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 00:16:05,344 INFO page.MainPage [main] Main page is opened
+2023-12-12 00:16:36,666 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 00:16:52,809 INFO page.MainPage [main] Main page is opened
+2023-12-12 00:16:53,358 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 00:17:06,634 INFO page.MainPage [main] Main page is opened
+2023-12-12 00:17:37,048 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 00:37:16,694 INFO page.MainPage [main] Main page is opened
+2023-12-12 00:37:16,971 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 00:37:54,856 INFO page.MainPage [main] Main page is opened
+2023-12-12 00:37:55,174 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 00:38:09,664 INFO page.MainPage [main] Main page is opened
+2023-12-12 00:38:11,980 INFO page.AddGoodPage [main] Target element is clicked
+2023-12-12 00:38:14,040 INFO page.AddGoodPage [main] Page is scrolled to the element 'movetoAdd'
+2023-12-12 00:38:14,503 INFO page.AddGoodPage [main] Add to cart button is clicked
+2023-12-12 00:38:16,611 INFO page.AddGoodPage [main] Size select is clicked
+2023-12-12 00:38:18,713 INFO page.AddGoodPage [main] Size select 1 is clicked
+2023-12-12 00:38:18,883 INFO page.AddGoodPage [main] Add to cart button 1 is clicked
+2023-12-12 00:38:21,042 INFO page.AddGoodPage [main] Count is entered: 1000000000000000000000000000
+2023-12-12 00:38:22,168 INFO page.AddGoodPage [main] Cart is clicked
+2023-12-12 00:38:23,209 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 00:39:10,277 INFO page.MainPage [main] Main page is opened
+2023-12-12 00:39:11,769 INFO page.AddGoodPage [main] Target element is clicked
+2023-12-12 00:39:13,817 INFO page.AddGoodPage [main] Page is scrolled to the element 'movetoAdd'
+2023-12-12 00:39:14,307 INFO page.AddGoodPage [main] Add to cart button is clicked
+2023-12-12 00:39:16,407 INFO page.AddGoodPage [main] Size select is clicked
+2023-12-12 00:39:18,511 INFO page.AddGoodPage [main] Size select 1 is clicked
+2023-12-12 00:39:18,636 INFO page.AddGoodPage [main] Add to cart button 1 is clicked
+2023-12-12 00:39:20,676 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 00:39:33,497 INFO page.MainPage [main] Main page is opened
+2023-12-12 00:39:35,122 INFO page.AddGoodPage [main] Target element is clicked
+2023-12-12 00:39:37,173 INFO page.AddGoodPage [main] Page is scrolled to the element 'movetoAdd'
+2023-12-12 00:39:37,642 INFO page.AddGoodPage [main] Add to cart button is clicked
+2023-12-12 00:39:39,741 INFO page.AddGoodPage [main] Size select is clicked
+2023-12-12 00:39:41,835 INFO page.AddGoodPage [main] Size select 1 is clicked
+2023-12-12 00:39:42,007 INFO page.AddGoodPage [main] Add to cart button 1 is clicked
+2023-12-12 00:39:44,054 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 00:40:08,016 INFO page.MainPage [main] Main page is opened
+2023-12-12 00:40:09,652 INFO page.AddGoodPage [main] Target element is clicked
+2023-12-12 00:40:11,702 INFO page.AddGoodPage [main] Page is scrolled to the element 'movetoAdd'
+2023-12-12 00:40:12,183 INFO page.AddGoodPage [main] Add to cart button is clicked
+2023-12-12 00:40:14,299 INFO page.AddGoodPage [main] Size select is clicked
+2023-12-12 00:40:16,395 INFO page.AddGoodPage [main] Size select 1 is clicked
+2023-12-12 00:40:16,528 INFO page.AddGoodPage [main] Add to cart button 1 is clicked
+2023-12-12 00:40:18,568 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 00:40:44,639 INFO page.MainPage [main] Main page is opened
+2023-12-12 00:40:46,234 INFO page.AddGoodPage [main] Target element is clicked
+2023-12-12 00:40:48,300 INFO page.AddGoodPage [main] Page is scrolled to the element 'movetoAdd'
+2023-12-12 00:40:48,808 INFO page.AddGoodPage [main] Add to cart button is clicked
+2023-12-12 00:40:50,913 INFO page.AddGoodPage [main] Size select is clicked
+2023-12-12 00:40:53,008 INFO page.AddGoodPage [main] Size select 1 is clicked
+2023-12-12 00:40:53,137 INFO page.AddGoodPage [main] Add to cart button 1 is clicked
+2023-12-12 00:40:55,179 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 00:41:18,751 INFO page.MainPage [main] Main page is opened
+2023-12-12 00:41:19,030 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 00:41:43,462 INFO page.MainPage [main] Main page is opened
+2023-12-12 00:41:44,932 INFO page.AddGoodPage [main] Target element is clicked
+2023-12-12 00:41:47,021 INFO page.AddGoodPage [main] Page is scrolled to the element 'movetoAdd'
+2023-12-12 00:41:47,504 INFO page.AddGoodPage [main] Add to cart button is clicked
+2023-12-12 00:41:49,624 INFO page.AddGoodPage [main] Size select is clicked
+2023-12-12 00:41:51,719 INFO page.AddGoodPage [main] Size select 1 is clicked
+2023-12-12 00:41:51,867 INFO page.AddGoodPage [main] Add to cart button 1 is clicked
+2023-12-12 00:41:53,897 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 00:43:40,319 INFO page.MainPage [main] Main page is opened
+2023-12-12 00:43:42,243 INFO page.AddGoodWithIncorretInfoPage [main] Target element is clicked
+2023-12-12 00:43:44,291 INFO page.AddGoodWithIncorretInfoPage [main] Page is scrolled to the element 'movetoAdd'
+2023-12-12 00:43:44,747 INFO page.AddGoodWithIncorretInfoPage [main] Add to cart button is clicked
+2023-12-12 00:43:46,860 INFO page.AddGoodWithIncorretInfoPage [main] Size select is clicked
+2023-12-12 00:43:48,964 INFO page.AddGoodWithIncorretInfoPage [main] Size select 1 is clicked
+2023-12-12 00:43:49,100 INFO page.AddGoodWithIncorretInfoPage [main] Add to cart button 1 is clicked
+2023-12-12 00:44:07,995 INFO page.AddGoodWithIncorretInfoPage [main] Cart is clicked
+2023-12-12 00:44:11,124 INFO page.AddGoodWithIncorretInfoPage [main] Phone input is clicked
+2023-12-12 00:44:13,196 INFO page.AddGoodWithIncorretInfoPage [main] Phone number is entered: 123
+2023-12-12 00:45:07,529 INFO page.MainPage [main] Main page is opened
+2023-12-12 00:45:09,133 INFO page.AddGoodWithIncorretInfoPage [main] Target element is clicked
+2023-12-12 00:45:11,189 INFO page.AddGoodWithIncorretInfoPage [main] Page is scrolled to the element 'movetoAdd'
+2023-12-12 00:45:11,648 INFO page.AddGoodWithIncorretInfoPage [main] Add to cart button is clicked
+2023-12-12 00:45:13,766 INFO page.AddGoodWithIncorretInfoPage [main] Size select is clicked
+2023-12-12 00:45:15,866 INFO page.AddGoodWithIncorretInfoPage [main] Size select 1 is clicked
+2023-12-12 00:45:15,998 INFO page.AddGoodWithIncorretInfoPage [main] Add to cart button 1 is clicked
+2023-12-12 00:45:32,978 INFO page.AddGoodWithIncorretInfoPage [main] Cart is clicked
+2023-12-12 00:45:36,115 INFO page.AddGoodWithIncorretInfoPage [main] Phone number is entered: 123
+2023-12-12 00:53:59,011 INFO page.MainPage [main] Main page is opened
+2023-12-12 00:54:01,027 INFO page.AddGoodWithIncorretInfoPage [main] Target element is clicked
+2023-12-12 00:54:03,132 INFO page.AddGoodWithIncorretInfoPage [main] Page is scrolled to the element 'movetoAdd'
+2023-12-12 00:54:03,611 INFO page.AddGoodWithIncorretInfoPage [main] Add to cart button is clicked
+2023-12-12 00:54:05,722 INFO page.AddGoodWithIncorretInfoPage [main] Size select is clicked
+2023-12-12 00:54:07,825 INFO page.AddGoodWithIncorretInfoPage [main] Size select 1 is clicked
+2023-12-12 00:54:07,954 INFO page.AddGoodWithIncorretInfoPage [main] Add to cart button 1 is clicked
+2023-12-12 00:54:25,751 INFO page.AddGoodWithIncorretInfoPage [main] Cart is clicked
+2023-12-12 00:54:28,906 INFO page.AddGoodWithIncorretInfoPage [main] Phone number is entered: 123
+2023-12-12 00:54:31,578 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 00:55:07,487 INFO page.MainPage [main] Main page is opened
+2023-12-12 00:55:08,053 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 00:55:19,874 INFO page.MainPage [main] Main page is opened
+2023-12-12 00:55:21,433 INFO page.AddGoodWithIncorretInfoPage [main] Target element is clicked
+2023-12-12 00:55:23,526 INFO page.AddGoodWithIncorretInfoPage [main] Page is scrolled to the element 'movetoAdd'
+2023-12-12 00:55:23,987 INFO page.AddGoodWithIncorretInfoPage [main] Add to cart button is clicked
+2023-12-12 00:55:26,101 INFO page.AddGoodWithIncorretInfoPage [main] Size select is clicked
+2023-12-12 00:55:28,193 INFO page.AddGoodWithIncorretInfoPage [main] Size select 1 is clicked
+2023-12-12 00:55:28,322 INFO page.AddGoodWithIncorretInfoPage [main] Add to cart button 1 is clicked
+2023-12-12 00:55:45,729 INFO page.AddGoodWithIncorretInfoPage [main] Cart is clicked
+2023-12-12 00:55:48,865 INFO page.AddGoodWithIncorretInfoPage [main] Phone number is entered: 123
+2023-12-12 00:55:50,421 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 01:00:06,617 INFO page.MainPage [main] Main page is opened
+2023-12-12 01:00:08,301 INFO page.AddGoodWithIncorretInfoPage [main] Target element is clicked
+2023-12-12 01:00:10,403 INFO page.AddGoodWithIncorretInfoPage [main] Page is scrolled to the element 'movetoAdd'
+2023-12-12 01:00:10,877 INFO page.AddGoodWithIncorretInfoPage [main] Add to cart button is clicked
+2023-12-12 01:00:12,995 INFO page.AddGoodWithIncorretInfoPage [main] Size select is clicked
+2023-12-12 01:00:15,096 INFO page.AddGoodWithIncorretInfoPage [main] Size select 1 is clicked
+2023-12-12 01:00:15,239 INFO page.AddGoodWithIncorretInfoPage [main] Add to cart button 1 is clicked
+2023-12-12 01:00:32,291 INFO page.AddGoodWithIncorretInfoPage [main] Cart is clicked
+2023-12-12 01:00:35,434 INFO page.AddGoodWithIncorretInfoPage [main] Phone number is entered: 123
+2023-12-12 01:00:42,086 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 01:01:08,243 INFO page.MainPage [main] Main page is opened
+2023-12-12 01:01:10,070 INFO page.AddGoodWithIncorretInfoPage [main] Target element is clicked
+2023-12-12 01:01:12,172 INFO page.AddGoodWithIncorretInfoPage [main] Page is scrolled to the element 'movetoAdd'
+2023-12-12 01:01:12,649 INFO page.AddGoodWithIncorretInfoPage [main] Add to cart button is clicked
+2023-12-12 01:01:14,774 INFO page.AddGoodWithIncorretInfoPage [main] Size select is clicked
+2023-12-12 01:01:16,874 INFO page.AddGoodWithIncorretInfoPage [main] Size select 1 is clicked
+2023-12-12 01:01:17,004 INFO page.AddGoodWithIncorretInfoPage [main] Add to cart button 1 is clicked
+2023-12-12 01:01:37,902 INFO page.AddGoodWithIncorretInfoPage [main] Cart is clicked
+2023-12-12 01:01:41,045 INFO page.AddGoodWithIncorretInfoPage [main] Phone number is entered: 123
+2023-12-12 01:01:42,646 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 08:04:53,553 INFO page.MainPage [main] Main page is opened
+2023-12-12 08:04:53,826 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 08:05:16,583 INFO page.MainPage [main] Main page is opened
+2023-12-12 08:05:16,897 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 08:07:14,899 INFO page.MainPage [main] Main page is opened
+2023-12-12 08:07:15,188 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 08:08:20,740 INFO page.MainPage [main] Main page is opened
+2023-12-12 08:08:20,760 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 08:08:20,770 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 08:09:32,831 INFO page.MainPage [main] Main page is opened
+2023-12-12 08:09:33,124 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 08:09:56,660 INFO page.MainPage [main] Main page is opened
+2023-12-12 08:09:56,941 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 08:10:35,049 INFO page.MainPage [main] Main page is opened
+2023-12-12 08:10:41,478 INFO page.AddGoodPage [main] Target element is clicked
+2023-12-12 08:10:43,527 INFO page.AddGoodPage [main] Page is scrolled to the element 'movetoAdd'
+2023-12-12 08:10:44,136 INFO page.AddGoodPage [main] Add to cart button is clicked
+2023-12-12 08:10:46,247 INFO page.AddGoodPage [main] Size select is clicked
+2023-12-12 08:10:48,345 INFO page.AddGoodPage [main] Size select 1 is clicked
+2023-12-12 08:10:48,493 INFO page.AddGoodPage [main] Add to cart button 1 is clicked
+2023-12-12 08:10:50,727 INFO page.AddGoodPage [main] Count is entered: 1000000000000000000000000000
+2023-12-12 08:10:51,852 INFO page.AddGoodPage [main] Cart is clicked
+2023-12-12 08:11:17,439 INFO page.MainPage [main] Main page is opened
+2023-12-12 08:11:20,369 INFO page.AddGoodPage [main] Target element is clicked
+2023-12-12 08:11:22,453 INFO page.AddGoodPage [main] Page is scrolled to the element 'movetoAdd'
+2023-12-12 08:11:22,932 INFO page.AddGoodPage [main] Add to cart button is clicked
+2023-12-12 08:11:25,040 INFO page.AddGoodPage [main] Size select is clicked
+2023-12-12 08:11:27,141 INFO page.AddGoodPage [main] Size select 1 is clicked
+2023-12-12 08:11:27,276 INFO page.AddGoodPage [main] Add to cart button 1 is clicked
+2023-12-12 08:11:29,314 INFO util.TestListener [main] Test failed: testAddingGood
+2023-12-12 08:12:05,661 INFO page.MainPage [main] Main page is opened
+2023-12-12 08:12:05,888 INFO page.AddGoodWithoutCharactPage [main] Catalog button is hovered
+2023-12-12 08:12:07,338 INFO page.AddGoodWithoutCharactPage [main] Target element is clicked
+2023-12-12 08:12:09,404 INFO page.AddGoodWithoutCharactPage [main] Page is scrolled to the element 'movetoAdd'
+2023-12-12 08:12:09,555 INFO page.AddGoodWithoutCharactPage [main] Element 'movetoAdd' is hovered
+2023-12-12 08:12:09,889 INFO page.AddGoodWithoutCharactPage [main] Add to cart button is clicked
+2023-12-12 08:12:12,021 INFO page.AddGoodWithoutCharactPage [main] Second Add to cart button is clicked
+2023-12-12 08:12:35,671 INFO page.MainPage [main] Main page is opened
+2023-12-12 08:12:40,721 INFO page.ComWithManagPage [main] Waiting for 5 seconds
+2023-12-12 08:12:40,826 INFO page.ComWithManagPage [main] Chat button is clicked
+2023-12-12 08:12:41,953 INFO page.ComWithManagPage [main] Second chat button is clicked
+2023-12-12 08:12:43,051 INFO page.ComWithManagPage [main] Message input is filled with 'qwe'
+2023-12-12 08:12:44,154 INFO page.ComWithManagPage [main] Message send button is clicked
+2023-12-12 08:12:46,245 INFO page.ComWithManagPage [main] Name field is clicked
+2023-12-12 08:12:46,319 INFO page.ComWithManagPage [main] Name input is filled with: йцу
+2023-12-12 08:12:46,432 INFO page.ComWithManagPage [main] Number input is filled with: +3744111
+2023-12-12 08:12:46,537 INFO page.ComWithManagPage [main] Email input is filled with: qwe@lis.ru
+2023-12-12 08:12:46,648 INFO page.ComWithManagPage [main] Send button is clicked
+2023-12-12 08:12:51,659 INFO page.ComWithManagPage [main] Waiting for 5 seconds
+2023-12-12 08:13:10,297 INFO page.MainPage [main] Main page is opened
+2023-12-12 08:13:10,513 INFO page.FeedbackPage [main] Catalog button is hovered
+2023-12-12 08:13:10,603 INFO util.TestListener [main] Test failed: testAddFeedback
+2023-12-12 08:14:33,329 INFO page.MainPage [main] Main page is opened
+2023-12-12 08:14:34,542 INFO page.FeedbackPage [main] Catalog button is hovered
+2023-12-12 08:14:34,627 INFO util.TestListener [main] Test failed: testAddFeedback
+2023-12-12 08:15:00,127 INFO page.MainPage [main] Main page is opened
+2023-12-12 08:15:02,376 INFO page.FeedbackPage [main] Catalog button is hovered
+2023-12-12 08:15:02,454 INFO util.TestListener [main] Test failed: testAddFeedback
+2023-12-12 08:15:37,981 INFO page.MainPage [main] Main page is opened
+2023-12-12 08:15:41,192 INFO page.FeedbackPage [main] Catalog button is hovered
+2023-12-12 08:15:41,258 INFO util.TestListener [main] Test failed: testAddFeedback
+2023-12-12 08:16:35,457 INFO page.MainPage [main] Main page is opened
+2023-12-12 08:16:37,672 INFO page.FeedbackPage [main] Catalog button is hovered
+2023-12-12 08:16:39,275 INFO page.FeedbackPage [main] Target element is clicked
+2023-12-12 08:16:40,883 INFO page.FeedbackPage [main] Ring select is clicked
+2023-12-12 08:16:43,061 INFO page.FeedbackPage [main] Add button is clicked
+2023-12-12 08:16:45,188 INFO page.FeedbackPage [main] FIO sent: qkwjen
+2023-12-12 08:16:46,318 INFO page.FeedbackPage [main] Dignities sent: qwmel
+2023-12-12 08:16:47,413 INFO page.FeedbackPage [main] Disadvantages sent: lnkqnwel
+2023-12-12 08:16:48,516 INFO page.FeedbackPage [main] Feedback sent: klqwnelkqwe
+2023-12-12 08:16:49,683 INFO page.FeedbackPage [main] Continue button is clicked
